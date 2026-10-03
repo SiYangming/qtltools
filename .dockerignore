@@ -1,0 +1,13 @@
+.git
+.DS_Store
+example_files
+example_results
+logs
+obj
+bin/*
+!bin/.gitignore
+*.pdf
+.daemon.*
+run.sh
+scripts/generate_test_script.py
+scripts/run_generated_test.sh

@@ -14,3 +14,12 @@ GTAGS
 .kdev4/
 /downloads/
 /install/
+upstream/bin/
+output/
+.DS_Store
+.DS_Store
+.daemon.*
+example_results/
+logs/
+*.pdf
+
